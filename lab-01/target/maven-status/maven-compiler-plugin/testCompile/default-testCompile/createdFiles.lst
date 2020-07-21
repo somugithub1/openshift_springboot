@@ -1,0 +1,3 @@
+com\redhat\coolstore\cart\service\PriceCalculationServiceImplTest.class
+com\redhat\coolstore\cart\service\CatalogServiceImplTest.class
+com\redhat\coolstore\cart\service\ShoppingCartServiceImplTest.class
